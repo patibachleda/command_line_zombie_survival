@@ -10,4 +10,5 @@ $ ./a.out hw6in1.txt < hw6keyboardIn1.txt >! studentHw6out1.txt
 ### Objective
 #### This project was completed as the final to Data Structures and Algorithms class and specifically focused on path finding algorithms.
 
-### This repository provides essentials for this program such as the grid layout. To run, 
+### This repository provides essentials for this program such as the grid layout. To run, using a gcc compiler:
+hw6
